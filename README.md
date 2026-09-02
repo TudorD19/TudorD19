@@ -1,6 +1,6 @@
 # Hi, I'm Tudor 👋
 
-Computer Science and Engineering student at **POLITEHNICA Bucharest (ACS)**, focused on **software engineering, systems, networking, and AI**.
+Currently studying Computer Science and Engineering at **POLITEHNICA Bucharest (ACS)**, focused on **software engineering, systems, networking, and AI**.
 
 I like building things, breaking them down, and understanding what actually happens under the hood.
 
