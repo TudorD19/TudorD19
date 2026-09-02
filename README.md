@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Tudor 👋
 
-<!--
-**TudorD19/TudorD19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Engineering student at **POLITEHNICA Bucharest (ACS)**, focused on **software engineering, systems, networking, and AI**.
 
-Here are some ideas to get you started:
+I like building things, breaking them down, and understanding what actually happens under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 Mostly working with **C and Python**
+- 🌐 Completed the **Cisco CCNA 1–3 curriculum**
+- 🐧 Comfortable working with **Linux, Git, networking tools, low-level concepts, data structures and algorithms**
+- 🤖 Currently exploring **AI systems, software architecture, full-stack development and AWS Cloud Infrastructure**
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,js,linux,git,github,flask,vscode" />
+</p>
+
+### Networking & Systems
+
+Cisco · Wireshark · Mininet · Scapy · TCP/IP · Routing & Switching
+
+## 📚 Currently Exploring
+
+`Python` · `Software Engineering` · `AI / LLM Systems` · `Linux` · `Cybersecurity`
+
+## 🤝 Connect
+
+<a href=https://www.linkedin.com/in/tudor-dragotescu/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
