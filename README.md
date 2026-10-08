@@ -14,7 +14,7 @@ I like building things, breaking them down, and understanding what actually happ
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js,linux,git,github,flask,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,js,linux,git,github,flask,vscode" />
 </p>
 
 ### Networking & Systems
