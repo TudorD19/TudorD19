@@ -6,7 +6,7 @@ I like building things, breaking them down, and understanding what actually happ
 
 ## 👨‍💻 About Me
 
-- 💻 Mostly working with **C and Python**
+- 💻 Mostly working with **C Python and C++**
 - 🌐 Completed the **Cisco CCNA 1–3 curriculum**
 - 🐧 Comfortable working with **Linux, Git, networking tools, low-level concepts, data structures and algorithms**
 - 🤖 Currently exploring **AI systems, software architecture, full-stack development and AWS Cloud Infrastructure**
